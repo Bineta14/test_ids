@@ -1,0 +1,25 @@
+---
+title: 'TEST'
+author: "MOI"
+date: "2024-11-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+## TP titanic
+
+```{r}
+1+10
+```
+```{r}
+library(carData)
+df=TitanicSurvival
+df
+```
+
